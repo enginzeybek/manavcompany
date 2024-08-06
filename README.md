@@ -1,0 +1,2 @@
+# manavcompany
+Veritabanından veri görüntüleme
